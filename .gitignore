@@ -1,0 +1,4 @@
+.DS_Store
+tekore.cfg
+__pycache__/
+.ipynb_checkpoints/

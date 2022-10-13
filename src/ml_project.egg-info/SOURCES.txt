@@ -1,0 +1,12 @@
+pyproject.toml
+setup.cfg
+src/ml_project/__init__.py
+src/ml_project/read_data.py
+src/ml_project/utils.py
+src/ml_project.egg-info/PKG-INFO
+src/ml_project.egg-info/SOURCES.txt
+src/ml_project.egg-info/dependency_links.txt
+src/ml_project.egg-info/top_level.txt
+src/ml_project/api/__init__.py
+src/ml_project/classification/__init__.py
+src/ml_project/preprocess/__init__.py
